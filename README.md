@@ -1,7 +1,7 @@
 ![MasterHead](https://semidotinfotech.com/web/images/frontend_banner.jpg)
 <h1 align="center">Hi there! I'm Kenewenemor Daniel, Ekrika</h1>
 <h3 align="center">A passionate back-end developer from Nigeria</h3>
-<img align="center" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+<img align="center" alt="Coding" width="800" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekrika&label=Profile%20views&color=0e75b6&style=flat" alt="ekrika" /> </p>
 
